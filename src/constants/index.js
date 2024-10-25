@@ -15,11 +15,22 @@ export const projects = [
         link: 'https://blog-shpere-otsr.vercel.app/',
     },
     {
+        title: 'News Box',
+        description: ' A news application using React.js and Redux Toolkit, featuring Google OAuth for secure login and personalised news categories.',
+        technologies: 'React JS | Redux Toolkit | Oauth | Tailwind CSS ',
+        link: 'https://github.com/PrajyotPawaskar/NewsBox',
+    },
+    {
         title: 'Portfolio Website',
         description: 'A dynamic and responsive portfolio website built using React.js and Tailwind CSS.',
         technologies:'React JS | Tailwind CSS | Framer Motion',
+<<<<<<< HEAD
         link: 'https://portfolio-prajyot-pawaskars-projects.vercel.app/',
     }
+=======
+        link: 'https://github.com/yourusername/portfolio-website',
+    },
+>>>>>>> b980798 (add projects)
 ]
 
 export const experience = [
