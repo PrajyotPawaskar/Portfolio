@@ -24,13 +24,8 @@ export const projects = [
         title: 'Portfolio Website',
         description: 'A dynamic and responsive portfolio website built using React.js and Tailwind CSS.',
         technologies:'React JS | Tailwind CSS | Framer Motion',
-<<<<<<< HEAD
         link: 'https://portfolio-prajyot-pawaskars-projects.vercel.app/',
     }
-=======
-        link: 'https://github.com/yourusername/portfolio-website',
-    },
->>>>>>> b980798 (add projects)
 ]
 
 export const experience = [
